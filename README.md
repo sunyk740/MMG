@@ -1,3 +1,4 @@
+# MMG
 **MMG (Meta Marker Generator)** is an interpretable linear framework for cross-modal and cross-species single-cell data integration.
 
 ## 📖 Overview
