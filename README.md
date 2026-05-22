@@ -8,7 +8,7 @@ MMG learns concise, linearly weighted gene combinations called **"meta-markers"*
 ### Key capabilities
 
 - **Cross-modal/species label transfer**: From scRNA-seq to scATAC-seq, spatial transcriptomics, and more
-- **Cross-modal/species data integration**: Mouse, human, macaque, marmoset, turtle, lizard, chimpanzee
+- **Cross-modal/species data integration**: Mouse, human, macaque, marmoset, turtle, lizard, chimpanzee, and more
 
 ## 📦 Installation
 
