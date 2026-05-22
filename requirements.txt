@@ -1,5 +1,5 @@
 matplotlib==3.7.5
-numpy==1.24.4
+numpy==1.12.1
 pandas==2.0.3
 POT==0.9.4
 scanpy==1.9.8
