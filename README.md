@@ -20,5 +20,6 @@ import mmg_sc as mmg
 ## 📓 Tutorials
 
 Detailed step-by-step tutorials are available in the examples/ directory:
+
 examples/cross_species_integration.ipynb 
 examples/cross_species_transfer.ipynb 
