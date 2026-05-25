@@ -9,11 +9,13 @@ MMG learns concise, linearly weighted gene combinations called **"meta-markers"*
 
 ```bash
 pip install mmg-sc
+```
 
 ## 🚀 Quick Start
 
 ```bash
 import mmg_sc as mmg
+```
 
 ## 📓 Tutorials
 
