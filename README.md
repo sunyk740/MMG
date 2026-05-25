@@ -14,7 +14,7 @@ pip install mmg-sc
 ## 🚀 Quick Start
 
 ```bash
-import mmg_sc as mmg
+import mmg
 ```
 
 ## 📓 Tutorials
